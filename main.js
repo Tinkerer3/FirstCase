@@ -18,7 +18,7 @@ function oddishOrEvenish(Int){
         else if(Int%2==1){
             console.log("Odd");
         }
-}
+    }
 }
 
 oddishOrEvenish(43)
